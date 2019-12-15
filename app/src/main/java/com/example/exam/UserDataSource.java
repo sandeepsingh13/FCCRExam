@@ -18,8 +18,8 @@ public class UserDataSource {
             user.password = "abc" ;
            user.id = 2;
            user.name = "jaskaran";
-           user.password = "abc" ;
-        user.id = 3;
+           user.password = "edf" ;
+       /*user.id = 3;
         user.name = "sahil";
         user.password = "abc" ;
         user.id = 4;
@@ -40,10 +40,9 @@ public class UserDataSource {
         user.id = 9;
         user.name = "then";
         user.password = "abc" ;
-
         user.id = 10;
         user.name = "when";
-        user.password = "abc" ;
+        user.password = "abc" ; */
 
             users.add(user);
         }

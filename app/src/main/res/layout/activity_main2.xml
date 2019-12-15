@@ -21,19 +21,12 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvUserss"
-        android:layout_width="343dp"
-        android:layout_height="303dp"
+        android:layout_width="380dp"
+        android:layout_height="484dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         app:layout_constraintVertical_bias="0.196" />
 
-    <Button
-        android:id="@+id/btnlogout"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="logout"
-        tools:layout_editor_absoluteX="151dp"
-        tools:layout_editor_absoluteY="592dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

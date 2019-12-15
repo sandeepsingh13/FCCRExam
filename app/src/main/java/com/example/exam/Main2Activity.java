@@ -16,8 +16,6 @@ public class Main2Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-final Button btn= findViewById(R.id.btnlogout);
- 
 
         rvUsers = findViewById(R.id.rvUserss);
         rvUsers.setLayoutManager(new LinearLayoutManager(this));
